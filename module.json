@@ -15,7 +15,7 @@
   "relationships": {
   "requires": []
   },
-  "url": "https://github.com/jlandic/directory-json-drop/",
-  "manifest": "https://github.com/jlandic/directory-json-drop/raw/main/module.json",
-  "download": "https://github.com/jlandic/directory-json-drop/raw/main/directory-json-drop.zip"
+  "url": "https://github.com/jlandic/foundry-directory-json-drop/",
+  "manifest": "https://github.com/jlandic/foundry-directory-json-drop/raw/refs/heads/main/module.json",
+  "download": "https://github.com/jlandic/foundry-directory-json-drop/raw/refs/heads/main/directory-json-drop.zip"
 }
