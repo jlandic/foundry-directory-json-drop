@@ -4,18 +4,18 @@
   "name": "directory-json-drop",
   "title": "Directory JSON Drop",
   "description": "Grid for managing macro hotbars of all users",
-  "authors": [{"name":"Xaukael"}],
-  "version": "1.0.3",
-	"socket": true,
+  "authors": [{"name":"Xaukael", "name": "jlandic"}],
+  "version": "1.0.4",
+  "socket": true,
   "compatibility": {
       "minimum": "10",
-      "verified": "11"
+      "verified": "12"
     },
   "scripts": ["directory-json-drop.js"],
   "relationships": {
   "requires": []
   },
-  "url": "https://github.com/xaukael/directory-json-drop/",
-  "manifest": "https://github.com/xaukael/directory-json-drop/raw/main/module.json",
-  "download": "https://github.com/xaukael/directory-json-drop/raw/main/directory-json-drop.zip"
+  "url": "https://github.com/jlandic/directory-json-drop/",
+  "manifest": "https://github.com/jlandic/directory-json-drop/raw/main/module.json",
+  "download": "https://github.com/jlandic/directory-json-drop/raw/main/directory-json-drop.zip"
 }
